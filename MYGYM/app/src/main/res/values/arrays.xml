@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="packages_array">
+        <item>GOLD PACKAGE</item>
+        <item>SILVER PACKAGE</item>
+        <item>PLATINUM PACKAGE</item>
+        <item>MONTHLY PACKAGE</item>
+    </string-array>
+    <string-array name="post_array">
+        <item>PERSONAL TRAINER</item>
+        <item>YOGA TEACHER</item>
+        <item>FITNESS CONSULTANT</item>
+        <item>DITECIAN</item>
+        <item>ZUMBA TRAINER</item>
+        <item>CLEANER</item>
+        <item>COACH</item>
+        <item>PROTINE SUPPLYER</item>
+    </string-array>
+</resources>
